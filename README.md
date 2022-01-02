@@ -4,7 +4,7 @@
 <h1>Hi, I'm Rafa Oshiro! 👋🏼</h1>
 
 - 🌱 I’m currently learning Front-end web development and Machine learning.
-- 👯 I’m looking to collaborate on projects that make the difference.
+- 👯 I’m looking to collaborate in projects that make the difference.
 - ⚡ Fun fact: I´m also a movie and photo editor!
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reshzera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
