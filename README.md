@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img srchttps://github.com/Reshzera/Reshzera/blob/main/ezgif.com-gif-maker.gif">
+  <img src="https://github.com/Reshzera/Reshzera/blob/main/ezgif.com-gif-maker.gif">
 </p>
-</div>
-
+##
 - 🌱 I’m currently learning Front-end web development and Machine learning.
 - 👯 I’m looking to collaborate on projects that make the difference.
 - ⚡ Fun fact: I´m also a movie and photo editor!
