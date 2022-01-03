@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Front-end web development and Machine learning.
 - 👯 I’m looking to collaborate in projects that make the difference.
 - ⚡ Fun fact: I´m also a movie and photo editor!
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reshzera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshzera&layout=compact&langs_count=7&theme=dark"/>
 </div>
