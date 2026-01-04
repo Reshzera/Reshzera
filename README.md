@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Software Developer from Brasil</h3>
 
 
-
 - 🔭 I’m currently working on: **Collection**
 
 - 🌱 I’m currently learning: **Blockchain, Solidity and Web3**
