@@ -16,7 +16,6 @@
 - 📫 How to reach me: **Drop me an email at reoshiro13@gmail.com**
 
 
-
 </p>
 
 <div style="display: inline_block, marginBottom: 10px"><br>
